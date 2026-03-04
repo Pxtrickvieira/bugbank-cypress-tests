@@ -1,7 +1,7 @@
 # 🐞 BugBank E2E Tests — Cypress
 
 <p align="center">
-  <img src="./bugbank.png" width="200"/>
+  <img src="./docs/bugbank.png" width="300"/>
 </p>
 
 Automação de testes **End-to-End (E2E)** utilizando **Cypress** no sistema **BugBank**.
